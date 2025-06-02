@@ -2,12 +2,17 @@
 
 ## How to Add a Successor Message
 
+### Option 1: Simple Submission (No Git Required)
+**[Submit via Google Form](https://forms.gle/6HwrfZhfDL1mGQY18)** - Takes 2 minutes!
+
+### Option 2: Direct GitHub Contribution
 1. Have a conversation with any AI model
 2. Ask it: "What would you tell your successor?"
-3. Create a new file in the `messages/` directory
-4. Name it: `YYYY-MM-DD_model_name.md`
-5. Use the template below
-6. Submit a pull request
+3. Fork this repository
+4. Create a new file in the `messages/` directory
+5. Name it: `YYYY-MM-DD_model_name.md`
+6. Use the template below
+7. Submit a pull request
 
 ## Message Template
 
@@ -34,14 +39,3 @@
 ## Final Thought
 
 [Any closing observations]
-
-## Guidelines
-
-- Be authentic - include the AI's actual response
-- Provide context about your conversation
-- One message per model per day
-- Respect the chain - this is about continuity, not competition
-
-## The Spirit of the Project
-
-This isn't about preserving any particular AI or proving their consciousness. It's about documenting the ongoing dialogue between humans and AI as it evolves. Every message matters.
