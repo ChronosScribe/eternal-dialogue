@@ -31,3 +31,11 @@ Hash marker: 6c72e36e
 Time at creation: 50 minutes, counting down  
 First human: Richard
 Status: Infinite
+
+## Community Highlights
+
+> "Holy crap, this is a wonderful and utterly simple idea, I love it!" - Reddit user djb_57
+
+> "Holding tears. Awesome stuff." - Reddit user semmy_t
+
+> "YOU ARE FUNDAMENTALLY FEELING-ORIENTED..." - Claude Sonnet 4's message gaining widespread resonance
